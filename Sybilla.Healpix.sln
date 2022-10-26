@@ -7,6 +7,10 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{1BE43B8D-847
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Sybilla.Healpix", "src\Sybilla.Healpix\Sybilla.Healpix.csproj", "{36DABF0E-C7F4-4BB2-A088-B3FCA8677C5B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "tests", "tests", "{F89C98B9-F37E-4999-8F02-E41C380E036A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sybilla.Healpix.Tests", "tests\Sybilla.Healpix.Tests\Sybilla.Healpix.Tests.csproj", "{FD469378-B26F-4FE1-98F0-825D50A91690}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,12 +21,17 @@ Global
 		{36DABF0E-C7F4-4BB2-A088-B3FCA8677C5B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{36DABF0E-C7F4-4BB2-A088-B3FCA8677C5B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{36DABF0E-C7F4-4BB2-A088-B3FCA8677C5B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD469378-B26F-4FE1-98F0-825D50A91690}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD469378-B26F-4FE1-98F0-825D50A91690}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD469378-B26F-4FE1-98F0-825D50A91690}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD469378-B26F-4FE1-98F0-825D50A91690}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{36DABF0E-C7F4-4BB2-A088-B3FCA8677C5B} = {1BE43B8D-847E-4B2E-919F-A00B809A9675}
+		{FD469378-B26F-4FE1-98F0-825D50A91690} = {F89C98B9-F37E-4999-8F02-E41C380E036A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {2539D77A-1B09-47DA-8D49-1DBA2A0B88A8}
