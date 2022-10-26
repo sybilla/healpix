@@ -17,4 +17,6 @@ NuGet package is available:
 
 ~- generating nuget package~
 
+~- adding basic tests~
+
 - adding tests
