@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>0.1.0</Version>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>Sybilla Technologies Sp. z o.o.</Authors>
+    <Product>Sybilla.Healpix</Product>
+    <Description>C# port of Typescript implementation of HEALPix paper</Description>
+    <Copyright>Copyright 2022 Sybilla Technologies Sp. z o.o.</Copyright>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <PackageProjectUrl>https://github.com/sybilla/healpix</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/sybilla/healpix</RepositoryUrl>
+    <PackageTags>healpix</PackageTags>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+</Project>
