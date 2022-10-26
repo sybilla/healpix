@@ -7,6 +7,6 @@ This module is port of [Typescript implementation](https://github.com/michitaro/
 
 ## TODO
 
-- uploading code
+~- uploading code~
 - adding tests
 - generating nuget package
