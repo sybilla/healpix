@@ -13,6 +13,7 @@
     <RepositoryUrl>https://github.com/sybilla/healpix</RepositoryUrl>
     <PackageTags>healpix</PackageTags>
     <RepositoryType>git</RepositoryType>
+    <PackageId>Healpix</PackageId>
   </PropertyGroup>
 
 </Project>
