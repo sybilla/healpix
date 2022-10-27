@@ -1,5 +1,5 @@
 # healpix
-C# port of Typescript implementation of HEALPix paper 
+C# port of Typescript implementation of [HEALPix](https://healpix.sourceforge.io/) ([paper [pdf]](https://iopscience.iop.org/article/10.1086/427976/pdf))
 
 ## Introduction
 
